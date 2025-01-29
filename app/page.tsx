@@ -7,7 +7,8 @@ export default function HomePage() {
   return (
     <div className="flex items-center justify-center h-screen bg-gray-50">
       <div className="p-8 text-center bg-white rounded shadow-md">
-        <h1 className="text-3xl font-bold mb-4">Hindi rashtrabhasha exam sysytem</h1>
+        <h1 className="text-3xl font-bold mb-4">Hindi Rashtrabhasha Exam sysytem</h1>
+        <h2 className="text-3xl font-bold mb-4">हिंदी राष्ट्रभाषा परीक्षा प्रणाली</h2>
         <p className="mb-6">Welcome! Please log in to continue.</p>
         
         {/* Add an Image */}
